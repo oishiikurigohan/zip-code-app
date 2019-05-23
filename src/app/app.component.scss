@@ -1,0 +1,9 @@
+$blue: #0000ff;
+$orange: #ffa500;
+
+h1 {
+  color: $blue;
+  &:hover {
+    color: $orange;
+  }
+}
